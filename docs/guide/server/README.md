@@ -10,11 +10,17 @@ order: 4
 
 # 西农 MC 服务器游玩指南
 
-::: tip 新服务器不删档测试开启啦！
+::: tip 生存服务器
 
-- 新版服务器 IP：mc.nwafu.com.cn
-- 新版服务器 IP2：play.nwafu.com.cn
+- IP：mc.nwafu.com.cn
 - 版本：1.20.1
+
+:::
+
+::: tip Parkour Egg 跑酷服务器
+
+- IP：121.5.17.154
+- 版本：1.20.2
 
 :::
 

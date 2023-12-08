@@ -1,21 +1,21 @@
 {
-	"name": "nwafu-mc-studio-docs",
-	"version": "0.1.0",
-	"description": "西农MC工作室文档",
-	"private": "true",
-	"main": "index.js",
-	"scripts": {
-		"docs:dev": "vuepress dev docs",
-		"docs:build": "vuepress build docs",
-		"docs:clean-dev": "vuepress dev docs --clean-cache",
-		"update-package": "pnpm dlx vp-update"
-	},
-	"license": "MIT",
-	"devDependencies": {
-		"@vuepress/client": "2.0.0-beta.67",
-		"vue": "^3.3.4",
-		"vuepress": "2.0.0-beta.67",
-		"vuepress-plugin-search-pro": "2.0.0-beta.237",
-		"vuepress-theme-hope": "2.0.0-beta.237"
-	}
+  "name": "nwafu-mc-studio-docs",
+  "version": "0.1.0",
+  "description": "西农MC工作室文档",
+  "private": "true",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "docs:clean-dev": "vuepress dev docs --clean-cache",
+    "update-package": "pnpm dlx vp-update"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/client": "2.0.0-rc.0",
+    "vue": "^3.3.10",
+    "vuepress": "2.0.0-rc.0",
+    "vuepress-plugin-search-pro": "2.0.0-rc.2",
+    "vuepress-theme-hope": "2.0.0-rc.2"
+  }
 }
