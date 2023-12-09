@@ -3,21 +3,11 @@ node_modules
 .temp
 
 node_modules/
-my-docs/.vuepress/.cache/
-my-docs/.vuepress/.temp/
-my-docs/.vuepress/dist/
+docs/.vuepress/.cache/
+docs/.vuepress/.temp/
+docs/.vuepress/dist/
 
 node_modules/
-my-docs/.vuepress/.cache/
-my-docs/.vuepress/.temp/
-my-docs/.vuepress/dist/
-
-node_modules/
-blog/.vuepress/.cache/
-blog/.vuepress/.temp/
-blog/.vuepress/dist/
-
-node_modules/
-blog/.vuepress/.cache/
-blog/.vuepress/.temp/
-blog/.vuepress/dist/
+docs/.vuepress/.cache/
+docs/.vuepress/.temp/
+docs/.vuepress/dist/
