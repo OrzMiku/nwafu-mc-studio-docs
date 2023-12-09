@@ -1,6 +1,6 @@
 ---
-author: "OrzMiku"
-category: "指南"
+author: 'OrzMiku'
+category: '指南'
 order: 4
 ---
 
@@ -24,7 +24,7 @@ order: 4
 
 :::
 
-<AutoCatalog/>
+<!-- <AutoCatalog/> -->
 
 ## 进服须知
 
